@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd583445524420e",
+        "id": "c9f45028e30293ea",
         "type": "tabs",
         "children": [
           {
-            "id": "29e50f7d23237214",
+            "id": "35de18aa5b5859dd",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_053-content/Índice SRD style.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e41110bdb10ebc12",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_053-content/Listado de hechizos completa.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 317.5
   },
   "right": {
     "id": "dc6439a6d083cce8",
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_053-content/Índice SRD style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_053-content/Índice SRD style.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_053-content/Índice SRD style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,33 +155,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29e50f7d23237214",
+  "active": "35de18aa5b5859dd",
   "lastOpenFiles": [
-    "_053-content/Clases/Druida.md",
-    "_053-content/SRD/Clases.md",
-    "_053-content/Clases/Clérigo.md",
-    "_053-content/Listado de hechizos completa.md",
-    "Untitled.md",
-    "_053-content/Índice SRD style.md",
+    "SRD/Razas.md",
+    "Índice SRD style.md",
+    "SRD/Clases.md",
+    "Listado de hechizos completa.md",
+    "Listado de Bestiario.md",
     "To-do.md",
-    "_053-content/SRD/Armas y armaduras.md",
-    "_053-content/SRD/Asignar los tesoros.md",
-    "_053-content/SRD/Armas (tabla avanzada).md",
-    "_053-content/Tesoros/Martillo de guerra enano +3.md",
-    "_053-content/SRD/Armas.md",
-    "_053-content/SRD/Armaduras y escudos.md",
-    "_053-content/SRD/Anillos.md",
-    "_053-content/SRD/Alineamiento.md",
-    "_053-content/SRD/Parámetros del juego.md",
-    "_053-content/Reglas/Reglas avanzadas/Magia avanzada.md",
-    "_053-content/Reglas/Reglas avanzadas/Veneno.md",
-    "_053-content/Reglas/Reglas avanzadas/Maestrías con armas.md",
-    "_053-content/Reglas/Reglas avanzadas/Habilidades secundarias.md",
-    "_053-content/Reglas/Reglas avanzadas/Habilidades de clase.md",
-    "_053-content/Reglas/Básicas/Monstruos/Notas.md",
-    "_053-content/Grimorio/Abrir las aguas.md",
-    "_053-content/Grimorio/Abrir.md",
-    "_053-content/Bestiario/Acechador invisible.md",
-    "_053-content/Bestiario/Abeja asesina.md"
+    "Untitled.md",
+    "README.md",
+    "Clases/Druida.md",
+    "Clases/Clérigo.md",
+    "SRD/Armas y armaduras.md",
+    "SRD/Asignar los tesoros.md",
+    "SRD/Armas (tabla avanzada).md",
+    "Tesoros/Martillo de guerra enano +3.md",
+    "SRD/Armas.md",
+    "SRD/Armaduras y escudos.md",
+    "SRD/Anillos.md",
+    "SRD/Alineamiento.md",
+    "SRD/Parámetros del juego.md",
+    "Reglas/Reglas avanzadas/Magia avanzada.md",
+    "Reglas/Reglas avanzadas/Veneno.md",
+    "Reglas/Reglas avanzadas/Maestrías con armas.md",
+    "Reglas/Reglas avanzadas/Habilidades secundarias.md",
+    "Reglas/Reglas avanzadas/Habilidades de clase.md",
+    "Reglas/Básicas/Monstruos/Notas.md",
+    "Grimorio/Abrir las aguas.md"
   ]
 }
