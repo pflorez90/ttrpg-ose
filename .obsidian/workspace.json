@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f45028e30293ea",
+        "id": "86a7009ff9ed0cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "35de18aa5b5859dd",
+            "id": "62c2abe8946e6c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -124,13 +131,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0d238b6544452ea8",
+            "id": "2651245f82b17880",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -155,33 +163,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35de18aa5b5859dd",
+  "active": "62c2abe8946e6c75",
   "lastOpenFiles": [
-    "SRD/Razas.md",
-    "Índice SRD style.md",
-    "SRD/Clases.md",
+    "To-do.md",
+    "README.md",
+    "Movimiento Hexcrawl.md",
+    "Listado de Tesoros.md",
     "Listado de hechizos completa.md",
     "Listado de Bestiario.md",
-    "To-do.md",
+    "Índice SRD style.md",
+    "Bestiario/Murciélago vampiro gigante.md",
+    "Bestiario/Murciélago gigante.md",
+    "Bestiario/Murciélago.md",
+    "Bestiario/Lodo verde.md",
+    "Bestiario/Elemental de fuego.md",
+    "Bestiario/Djinni (menor).md",
+    "Bestiario/Animal de manada pequeño.md",
+    "Bestiario/Acólito.md",
+    "Bestiario/Acechador invisible.md",
+    "Bestiario/Abeja asesina.md",
+    "SRD/Razas.md",
+    "SRD/Clases.md",
     "Untitled.md",
-    "README.md",
     "Clases/Druida.md",
     "Clases/Clérigo.md",
     "SRD/Armas y armaduras.md",
     "SRD/Asignar los tesoros.md",
     "SRD/Armas (tabla avanzada).md",
-    "Tesoros/Martillo de guerra enano +3.md",
-    "SRD/Armas.md",
-    "SRD/Armaduras y escudos.md",
-    "SRD/Anillos.md",
-    "SRD/Alineamiento.md",
-    "SRD/Parámetros del juego.md",
-    "Reglas/Reglas avanzadas/Magia avanzada.md",
-    "Reglas/Reglas avanzadas/Veneno.md",
-    "Reglas/Reglas avanzadas/Maestrías con armas.md",
-    "Reglas/Reglas avanzadas/Habilidades secundarias.md",
-    "Reglas/Reglas avanzadas/Habilidades de clase.md",
-    "Reglas/Básicas/Monstruos/Notas.md",
-    "Grimorio/Abrir las aguas.md"
+    "Tesoros/Martillo de guerra enano +3.md"
   ]
 }
