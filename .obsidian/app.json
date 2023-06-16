@@ -1,0 +1,18 @@
+{
+  "attachmentFolderPath": "OSE",
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "spellcheckLanguages": [
+    "es-AR"
+  ],
+  "showLineNumber": false,
+  "showIndentGuide": true
+}

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "035c5c8fa5974f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dd583445524420e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e50f7d23237214",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_053-content/Índice SRD style.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e41110bdb10ebc12",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_053-content/Listado de hechizos completa.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c242443ff33d508",
+    "type": "split",
+    "children": [
+      {
+        "id": "9816396c474d3b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2575af805acae3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39b4bc5fa3d811d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d7da8774ad2c30f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "dc6439a6d083cce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f94aeb608505d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce18ddf7c6b984cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_053-content/Índice SRD style.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "10b82edce30c87f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8570b4bb00f426e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_053-content/Índice SRD style.md"
+              }
+            }
+          },
+          {
+            "id": "fdf72a3ea78e070a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5884c15305be25d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_053-content/Índice SRD style.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d238b6544452ea8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "29e50f7d23237214",
+  "lastOpenFiles": [
+    "_053-content/Clases/Druida.md",
+    "_053-content/SRD/Clases.md",
+    "_053-content/Clases/Clérigo.md",
+    "_053-content/Listado de hechizos completa.md",
+    "Untitled.md",
+    "_053-content/Índice SRD style.md",
+    "To-do.md",
+    "_053-content/SRD/Armas y armaduras.md",
+    "_053-content/SRD/Asignar los tesoros.md",
+    "_053-content/SRD/Armas (tabla avanzada).md",
+    "_053-content/Tesoros/Martillo de guerra enano +3.md",
+    "_053-content/SRD/Armas.md",
+    "_053-content/SRD/Armaduras y escudos.md",
+    "_053-content/SRD/Anillos.md",
+    "_053-content/SRD/Alineamiento.md",
+    "_053-content/SRD/Parámetros del juego.md",
+    "_053-content/Reglas/Reglas avanzadas/Magia avanzada.md",
+    "_053-content/Reglas/Reglas avanzadas/Veneno.md",
+    "_053-content/Reglas/Reglas avanzadas/Maestrías con armas.md",
+    "_053-content/Reglas/Reglas avanzadas/Habilidades secundarias.md",
+    "_053-content/Reglas/Reglas avanzadas/Habilidades de clase.md",
+    "_053-content/Reglas/Básicas/Monstruos/Notas.md",
+    "_053-content/Grimorio/Abrir las aguas.md",
+    "_053-content/Grimorio/Abrir.md",
+    "_053-content/Bestiario/Acechador invisible.md",
+    "_053-content/Bestiario/Abeja asesina.md"
+  ]
+}
