@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f51066493e40b28a",
+        "id": "6c0074e1e6572ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "d0294b902450ee34",
+            "id": "fb941d843b7ad8bf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "d0294b902450ee34",
+  "active": "c2575af805acae3f",
   "lastOpenFiles": [
+    "Clases/Acróbata.md",
+    "SRD/Armaduras y escudos.md",
+    "SRD/Alineamiento.md",
+    "SRD/Armas y armaduras.md",
+    "SRD/Anillos.md",
     "C3.md",
     "C2.md",
     "C1.md",
@@ -178,11 +183,6 @@
     "Bestiario/Acólito.md",
     "Bestiario/Acechador invisible.md",
     "Bestiario/Abeja asesina.md",
-    "SRD/Razas.md",
-    "SRD/Clases.md",
-    "Untitled.md",
-    "Clases/Druida.md",
-    "Clases/Clérigo.md",
-    "SRD/Armas y armaduras.md"
+    "SRD/Razas.md"
   ]
 }
