@@ -7,6 +7,7 @@ alias:
 
 -tx-
 |Estadísticas de armas de combate|||
+
 | Arma                      | Daño | Características                                                        |
 | ------------------------- |:----:| ---------------------------------------------------------------------- |
 | Antorcha                  | 1d4  | Cuerpo a cuerpo                                                        |

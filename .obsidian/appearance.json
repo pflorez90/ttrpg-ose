@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "textFontFamily": "Futura Std,Futura,Alegreya",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "translucency": false,
   "baseFontSize": 18,
   "enabledCssSnippets": [

@@ -1,5 +1,5 @@
 ▶ 
-# Reglas Básicas (SRD)
+# Reglas Básicas
 
 1. Personajes Jugadores
 	1. [[Parámetros del juego]]
@@ -9,7 +9,7 @@
 	5. [[Idiomas]]
 	6. [[Progreso]]
 2. [[Clases#SRD (Básico)|Clases]]
-	1. [[Reglas opcionales|Reglas opcionales de]] [[Razas]](no SRD)
+	1. [[Reglas opcionales|Reglas opcionales de]] [[Razas]]
 3. Equipo y Servicios
 	1. [[Riqueza]]
 	2. [[Equipo de aventura]]

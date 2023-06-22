@@ -1,6 +1,8 @@
 ---
 name: Acrobat
 name_es: Acróbata
+req: 
+ppal: DES
 tag: clase
 ---
 # Acróbata 
@@ -23,22 +25,22 @@ Los acróbatas son maestros del equilibrio, la gimnasia y el sigilo. A menudo tr
 
 ## Progresión del acróbata
 
-| Nivel | PX      | DG      | BONO | **M** | **V** | **P** | **A** | **H** |
-|:----- |:------- |:------- |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1     | 0       | 1d4     |  0   |  13   |  14   |  13   |  16   |  15   |
-| 2     | 1.200   | 2d4     |  0   |  13   |  14   |  13   |  16   |  15   |
-| 3     | 2.400   | 3d4     |  0   |  13   |  14   |  13   |  16   |  15   |
-| 4     | 4.800   | 4d4     |  0   |  13   |  14   |  13   |  16   |  15   |
-| 5     | 9.600   | 5d4     |  +2  |  12   |  13   |  11   |  14   |  13   |
-| 6     | 20.000  | 6d4     |  +2  |  12   |  13   |  11   |  14   |  13   |
-| 7     | 40.000  | 7d4     |  +2  |  12   |  13   |  11   |  14   |  13   |
-| 8     | 80.000  | 8d4     |  +2  |  12   |  13   |  11   |  14   |  13   |
-| 9     | 160.000 | 9d4     |  +5  |  10   |  11   |   9   |  12   |  10   |
-| 10    | 280.000 | 9d4+2*  |  +5  |  10   |  11   |   9   |  12   |  10   |
-| 11    | 400.000 | 9d4+4*  |  +5  |  10   |  11   |   9   |  12   |  10   |
-| 12    | 520.000 | 9d4+6*  |  +5  |  10   |  11   |   9   |  12   |  10   |
-| 13    | 640.000 | 9d4+8*  |  +7  |   8   |   9   |   7   |  10   |   8   |
-| 14    | 760.000 | 9d4+10* |  +7  |   8   |   9   |   7   |  10   |   8   |
+| Nivel | PX      | DG      | B. Atq. | **M** | **V** | **P** | **A** | **H** |
+|:----- |:------- |:------- |:-------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1     | 0       | 1d4     |    0    |  13   |  14   |  13   |  16   |  15   |
+| 2     | 1.200   | 2d4     |    0    |  13   |  14   |  13   |  16   |  15   |
+| 3     | 2.400   | 3d4     |    0    |  13   |  14   |  13   |  16   |  15   |
+| 4     | 4.800   | 4d4     |    0    |  13   |  14   |  13   |  16   |  15   |
+| 5     | 9.600   | 5d4     |   +2    |  12   |  13   |  11   |  14   |  13   |
+| 6     | 20.000  | 6d4     |   +2    |  12   |  13   |  11   |  14   |  13   |
+| 7     | 40.000  | 7d4     |   +2    |  12   |  13   |  11   |  14   |  13   |
+| 8     | 80.000  | 8d4     |   +2    |  12   |  13   |  11   |  14   |  13   |
+| 9     | 160.000 | 9d4     |   +5    |  10   |  11   |   9   |  12   |  10   |
+| 10    | 280.000 | 9d4+2*  |   +5    |  10   |  11   |   9   |  12   |  10   |
+| 11    | 400.000 | 9d4+4*  |   +5    |  10   |  11   |   9   |  12   |  10   |
+| 12    | 520.000 | 9d4+6*  |   +5    |  10   |  11   |   9   |  12   |  10   |
+| 13    | 640.000 | 9d4+8*  |   +7    |   8   |   9   |   7   |  10   |   8   |
+| 14    | 760.000 | 9d4+10* |   +7    |   8   |   9   |   7   |  10   |   8   |
 
 \* No se aplican modificadores por CON.
 
@@ -99,4 +101,3 @@ Al usar la habilidad de caer o saltar, un acróbata puede hacer una acrobacia qu
 ## Tras alcanzar nivel 9
 
 El acróbata puede fundar una escuela de entrenamiento, lo que atrae a 2d6 aprendices de nivel 1. Estos aprendices servirán al personaje con cierta fiabilidad. Sin embargo, si uno de ellos es arrestado o muere, el PJ no podrá reclutar nuevos aprendices. Un acróbata de renombre puede usar a sus seguidores para crear un gremio de ladrones.
-

@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0074e1e6572ddb",
+        "id": "bd66d356f7b437ee",
         "type": "tabs",
         "children": [
           {
-            "id": "fb941d843b7ad8bf",
+            "id": "da44c1e6aaaf8657",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Índice SRD style.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Índice SRD style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +105,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Índice SRD style.md"
+              }
             }
           },
           {
@@ -124,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Índice SRD style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,33 +166,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "c2575af805acae3f",
+  "active": "da44c1e6aaaf8657",
   "lastOpenFiles": [
+    "SRD/Clases.md",
     "Clases/Acróbata.md",
-    "SRD/Armaduras y escudos.md",
-    "SRD/Alineamiento.md",
-    "SRD/Armas y armaduras.md",
-    "SRD/Anillos.md",
-    "C3.md",
-    "C2.md",
-    "C1.md",
-    "To-do.md",
-    "README.md",
-    "Movimiento Hexcrawl.md",
-    "Listado de Tesoros.md",
-    "Listado de hechizos completa.md",
-    "Listado de Bestiario.md",
     "Índice SRD style.md",
-    "Bestiario/Murciélago vampiro gigante.md",
-    "Bestiario/Murciélago gigante.md",
-    "Bestiario/Murciélago.md",
-    "Bestiario/Lodo verde.md",
-    "Bestiario/Elemental de fuego.md",
-    "Bestiario/Djinni (menor).md",
-    "Bestiario/Animal de manada pequeño.md",
+    "Listado de Bestiario.md",
+    "Listado de hechizos completa.md",
+    "Listado de Tesoros.md",
+    "Movimiento Hexcrawl.md",
+    "README.md",
+    "To-do.md",
+    "Untitled.canvas",
     "Bestiario/Acólito.md",
-    "Bestiario/Acechador invisible.md",
-    "Bestiario/Abeja asesina.md",
-    "SRD/Razas.md"
+    "Tesoros/Varita de bolas de fuego.md",
+    "Clases/Asesino.md",
+    "Tesoros/Varita de paralización.md",
+    "Tesoros/Yelmo de comprensión.md",
+    "Tesoros/Yelmo de telepatía.md",
+    "Tesoros/Yelmo de teletransportación.md",
+    "Tesoros/Poción de velocidad.md",
+    "Tesoros/Tambores del pánico.md",
+    "Tesoros/Varita de detección de puertas secretas.md",
+    "Tesoros/Poción de clarividencia.md",
+    "Tesoros/Medallón de leer pensamientos 30’.md",
+    "Tesoros/Espada +2, embrujar persona.md",
+    "Tesoros/Espada +1, luz.md",
+    "SRD/Armas y armaduras.md",
+    "SRD/Armas (tabla avanzada).md",
+    "SRD/Armas.md"
   ]
 }
