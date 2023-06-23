@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "402eda63361a3e62",
+        "id": "df3d9a43bd33658e",
         "type": "tabs",
         "children": [
           {
-            "id": "e93a579829af55d1",
+            "id": "e076d257b32b80e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,19 +156,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e93a579829af55d1",
+  "active": "e076d257b32b80e2",
   "lastOpenFiles": [
-    "new-release/clases/drow.md",
+    "new-release/clases/svirfneblin.md",
+    "new-release/clases/duergar.md",
+    "new-release/clases/guardabosques.md",
+    "new-release/clases/gnomo.md",
     "new-release/clases/druida.md",
     "new-release/clases/caballero.md",
     "new-release/clases/bardo.md",
+    "new-release/clases/barbaro.md",
     "new-release/clases/asesino.md",
     "new-release/clases/acrobata.md",
     "new-release/clases.md",
+    "new-release/clases/drow.md",
     "new-release/index.md",
     "new-release/clases/clerigo.md",
-    "new-release/clases/barbaro.md",
-    "new-release/clases/svirfneblin.md",
     "clases.md",
     "new-release/clases/semiorco.md",
     "new-release/clases/semielfo.md",
@@ -178,11 +181,8 @@
     "new-release/clases/ladron.md",
     "new-release/clases/ilusionista.md",
     "new-release/clases/guerrero.md",
-    "new-release/clases/guardabosques.md",
-    "new-release/clases/gnomo.md",
     "new-release/clases/enano.md",
     "new-release/clases/elfo.md",
-    "new-release/clases/duergar.md",
     "new-release",
     "Indice SRD.md",
     "Untitled.canvas"

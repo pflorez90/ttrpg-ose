@@ -7,12 +7,12 @@ metaDescription: "Clases -> Svirfneblin"
 
 **_Svirfneblin_**
 
-> **Requisitos:** Mínimo CON 9 
+> **Requisitos:** Mínimo CON 9
 > **Requisito principal:** FUE
-> **Dados de Golpe:** 1d6   
-> **Nivel máximo:** 8   
-> **Armadura:** Cualquiera de su tamaño, incluyendo escudos   
-> **Armas:** Cualquiera de su tamaño   
+> **Dados de Golpe:** 1d6
+> **Nivel máximo:** 8
+> **Armadura:** Cualquiera de su tamaño, incluyendo escudos
+> **Armas:** Cualquiera de su tamaño
 > **Idiomas:** Alineamiento, común, infracomún, gnomo, enano, kobold, el lenguaje de los elementales de tierra
 
 Pequeños y rechonchos semihumanos con largas narices y piel gris. Los svirfneblin (también conocidos como gnomos de las profundidades) son primos subterráneos de los gnomos que viven cerca de la superficie. Los svirfneblin son hábiles excavadores de túneles y fabricantes de artilugios mecánicos. Aman las gemas por encima de cualquier riqueza y construyen sus comunidades alrededor de las vetas de estas piedras preciosas. Suelen medir alrededor de 3½’ y pesar unas 120 libras.
