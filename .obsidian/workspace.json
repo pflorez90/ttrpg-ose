@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df3d9a43bd33658e",
+        "id": "12f222cb55ac5326",
         "type": "tabs",
         "children": [
           {
-            "id": "e076d257b32b80e2",
+            "id": "a6591131e64f7a74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new-release/clases/svirfneblin.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new-release/clases/svirfneblin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "new-release/clases/svirfneblin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new-release/clases/svirfneblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +156,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e076d257b32b80e2",
+  "active": "a6591131e64f7a74",
   "lastOpenFiles": [
-    "new-release/clases/acrobata.md",
     "new-release/clases/svirfneblin.md",
+    "new-release/clases/acrobata.md",
     "new-release/clases/duergar.md",
     "new-release/clases/guardabosques.md",
     "new-release/clases/gnomo.md",
