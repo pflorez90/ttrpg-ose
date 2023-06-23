@@ -13,7 +13,7 @@ Las fortalezas y debilidades, tanto físicas como mentales, básicas de cada per
 
 ## Clase 
 
-Todo aventurero pertenece a una clase. La clase de un personaje define sus principales características (ver **_[[Clases]]_**).
+Todo aventurero pertenece a una clase. La clase de un personaje define sus principales características (ver **_[[SRD/Clases]]_**).
 
 ## Raza 
 

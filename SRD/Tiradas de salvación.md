@@ -26,7 +26,7 @@ La descripción de cada hechizo, ataque y escenario indican qué tirada de salva
 ---
 ## Tablas de tiradas de salvación
 
-**Personajes:** Cada [[Clases|clase]] tiene su propia tabla que muestra los valores de tiradas de salvación por cada nivel.
+**Personajes:** Cada [[SRD/Clases|clase]] tiene su propia tabla que muestra los valores de tiradas de salvación por cada nivel.
 
 **Monstruos:** La mayoría de los monstruos usan la tabla de [[Tablas de combate#Tirada de salvación de monstruo|tirada de salvación de monstruo]]. La descripción de algunos monstruos puede indicar que usan la tabla de salvación de una clase de personaje específica.
 

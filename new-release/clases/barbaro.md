@@ -1,20 +1,14 @@
 ---
-name: Barbarian
-name_es: Bárbaro
-src: "OSE Advance Fantasy Referee's Tome"
-pg: 
-req: Mínimo DES 9
-ppal: CON y FUE
-srd: 
-tag: clase
-alias: Barbarian
+title: "Bárbaro"
+metaTitle: "Bárbaro"
+metaDescription: "Clases -> Bárbaro"
 ---
-# `=this.name_es` 
+# Bárbaro 
 
-**_`=this.name`_**
+**_Barbarian_**
 
-> **Requisitos:** `=this.req` 
-> **Requisito principal:** `=this.ppal` 
+> **Requisitos:** Mínimo DES 9 
+> **Requisito principal:** CON y FUE 
 > **Dados de Golpe:** 1d8   
 > **Nivel máximo:** 14   
 > **Armadura:** Cuero, cota de malla, escudos   
@@ -27,38 +21,33 @@ Los bárbaros son primitivos guerreros tribales de tierras salvajes e inciviliza
 
 **Alfabetización:** Un bárbaro de nivel 1 no puede leer ni escribir, independientemente de su INT.
 
----
 ## Progresión del bárbaro
 
--tx-
-| ||||**Tiradas de salvación**|||||
-| Nivel |    PX   |    DG   |   GAC0  | **M** | **V** | **P** | **A** | **H** |
-|:-----:|:-------:|:-------:|:-------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|   1   |    0    |   1d8   |  19 [0] |   10  |   13  |   12  |   15  |   16  |
-|   2   |  2.500  |   2d8   |  19 [0] |   10  |   13  |   12  |   15  |   16  |
-|   3   |  5.000  |   3d8   |  19 [0] |   10  |   13  |   12  |   15  |   16  |
-|   4   |  10.000 |   4d8   | 17 [+2] |   8   |   11  |   10  |   13  |   13  |
-|   5   |  18.500 |   5d8   | 17 [+2] |   8   |   11  |   10  |   13  |   13  |
-|   6   |  37.000 |   6d8   | 17 [+2] |   8   |   11  |   10  |   13  |   13  |
-|   7   |  85.000 |   7d8   | 14 [+5] |   6   |   9   |   8   |   10  |   10  |
-|   8   | 140.000 |   8d8   | 14 [+5] |   6   |   9   |   8   |   10  |   10  |
-|   9   | 270.000 |   9d8   | 14 [+5] |   6   |   9   |   8   |   10  |   10  |
-|   10  | 400.000 |  9d8+3* | 12 [+7] |   4   |   7   |   6   |   8   |   7   |
-|   11  | 530.000 |  9d8+6* | 12 [+7] |   4   |   7   |   6   |   8   |   7   |
-|   12  | 660.000 |  9d8+9* | 12 [+7] |   4   |   7   |   6   |   8   |   7   |
-|   13  | 790.000 | 9d8+12* | 10 [+9] |   3   |   5   |   4   |   5   |   5   |
-|   14  | 920.000 | 9d8+15* | 10 [+9] |   3   |   5   |   4   |   5   |   5   |
+| Nivel |   PX    |   DG    | B. Atq. | **M** | **V** | **P** | **A** | **H** |
+|:-----:|:-------:|:-------:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   1   |    0    |   1d8   |  0   |  10   |  13   |  12   |  15   |  16   |
+|   2   |  2.500  |   2d8   |  0   |  10   |  13   |  12   |  15   |  16   |
+|   3   |  5.000  |   3d8   |  0   |  10   |  13   |  12   |  15   |  16   |
+|   4   | 10.000  |   4d8   |  +2  |   8   |  11   |  10   |  13   |  13   |
+|   5   | 18.500  |   5d8   |  +2  |   8   |  11   |  10   |  13   |  13   |
+|   6   | 37.000  |   6d8   |  +2  |   8   |  11   |  10   |  13   |  13   |
+|   7   | 85.000  |   7d8   |  +5  |   6   |   9   |   8   |  10   |  10   |
+|   8   | 140.000 |   8d8   |  +5  |   6   |   9   |   8   |  10   |  10   |
+|   9   | 270.000 |   9d8   |  +5  |   6   |   9   |   8   |  10   |  10   |
+|  10   | 400.000 | 9d8+3*  |  +7  |   4   |   7   |   6   |   8   |   7   |
+|  11   | 530.000 | 9d8+6*  |  +7  |   4   |   7   |   6   |   8   |   7   |
+|  12   | 660.000 | 9d8+9*  |  +7  |   4   |   7   |   6   |   8   |   7   |
+|  13   | 790.000 | 9d8+12* |  +9  |   3   |   5   |   4   |   5   |   5   |
+|  14   | 920.000 | 9d8+15* |  +9  |   3   |   5   |   4   |   5   |   5   |
 
 \* No se aplican modificadores por CON.
 
 **M:** Muerte / veneno; **V:** Varitas; **P:** Parálisis / petrificación; **A:** Ataques de aliento; **H:** Hechizos / varas / bastones.
 
----
 ## Luchador ágil
 
 Al alcanzar el nivel 4, el bárbaro obtiene +1 CA. Esta bonificación aumenta a +2 al nivel 6, +3 al nivel 8, y +4 al nivel 10.
 
----
 ## Habilidades de bárbaro
 
 En un territorio salvaje, el bárbaro puede usar las siguientes habilidades (la probabilidad de éxito se encuentra en la siguiente página): 
@@ -94,32 +83,26 @@ Los chequeos de todas las habilidades se realizan con un d%. Un resultado igual 
 
 El Árbitro realiza los chequeos para ocultarse y moverse con sigilo, ya que el bárbaro siempre cree que ha tenido éxito. Si la tirada falla, el Árbitro sabe que el bárbaro ha sido visto y deberá determinar las acciones de los enemigos de forma apropiada.
 
----
 ## Combate
 
 Los bárbaros pueden usar todo tipo de armas y pueden usar armaduras de cuero, cotas de malla y escudos.
 
----
 ## Curar veneno
 
 En un territorio salvaje, el bárbaro puede recolectar plantas para hacer un antídoto contra venenos naturales. Se necesita un turno para curar a un personaje. Cada sujeto debe realizar una segunda tirada de salvación contra veneno para acabar con los efectos.
 
----
 ## Miedo a la magia
 
 Los bárbaros desconfían de la magia y se negarán a aprender a usar o caer bajo la influencia de hechizos u objetos mágicos. Los bárbaros aceptarán la magia divina asociada a su religión tribal.
 
----
 ## Forrajeo y caza
 
 Un grupo que cuente con un bárbaro tiene éxito en la búsqueda de comida con una probabilidad de 2 entre 6 y encuentra presas cuando caza con una probabilidad de 5 entre 6 (ver _[[Aventuras en tierras salvajes|Aventuras en territorios salvajes]]_).
 
----
 ## Golpear monstruos invulnerables
 
 Un bárbaro de nivel 4 o más puede golpear a monstruos que normalmente solo sufren daño por magia.
 
----
 ## Tras alcanzar nivel 8
 
 Un bárbaro puede llamar al resto de su tribu para formar una gran horda de guerreros de 250 guerreros por cada nivel superior al 7. Estos bárbaros son guerreros de nivel 1 con equipo de combate básico, y pueden ir montados si es costumbre en su cultura. Una horda solo puede unirse para un propósito específico: atacar una ciudad enemiga, rescatar rehenes, etc. Una vez se haya logrado o abandonado el propósito, la horda se disuelve. Se necesita una semana para reunir a todos los guerreros, y se mantiene unida una semana por cada nivel del bárbaro que la convoca.

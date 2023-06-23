@@ -20,7 +20,7 @@ Estas tiradas pueden dar como resultado personajes con características muy pobr
 ---
 ## 2. Elige una clase
 
-Elige una de las [[Clases|clases disponibles]] para el género de la partida, teniendo en cuenta los requisitos mínimos de características para cada clase.
+Elige una de las [[SRD/Clases|clases disponibles]] para el género de la partida, teniendo en cuenta los requisitos mínimos de características para cada clase.
 
 ---
 ## 3. Ajusta las características
@@ -29,7 +29,7 @@ Si lo deseas, puedes aumentar los _[[Parámetros del juego#Requisito principal|r
 
 - ▶ Solo se pueden reducir de esta manera Fuerza, Inteligencia y Sabiduría. 
 - ▶ Ninguna característica puede reducirse por debajo de 9. 
-- ▶ Algunas [[Clases]] pueden tener restricciones adicionales.
+- ▶ Algunas [[SRD/Clases]] pueden tener restricciones adicionales.
 
 ---
 ## 4. Apunta los modificadores de características

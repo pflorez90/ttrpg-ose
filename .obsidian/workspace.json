@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd66d356f7b437ee",
+        "id": "402eda63361a3e62",
         "type": "tabs",
         "children": [
           {
-            "id": "da44c1e6aaaf8657",
+            "id": "e93a579829af55d1",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Índice SRD style.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Índice SRD style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Índice SRD style.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Índice SRD style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,34 +156,35 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "da44c1e6aaaf8657",
+  "active": "e93a579829af55d1",
   "lastOpenFiles": [
-    "SRD/Clases.md",
-    "Clases/Acróbata.md",
-    "Índice SRD style.md",
-    "Listado de Bestiario.md",
-    "Listado de hechizos completa.md",
-    "Listado de Tesoros.md",
-    "Movimiento Hexcrawl.md",
-    "README.md",
-    "To-do.md",
-    "Untitled.canvas",
-    "Bestiario/Acólito.md",
-    "Tesoros/Varita de bolas de fuego.md",
-    "Clases/Asesino.md",
-    "Tesoros/Varita de paralización.md",
-    "Tesoros/Yelmo de comprensión.md",
-    "Tesoros/Yelmo de telepatía.md",
-    "Tesoros/Yelmo de teletransportación.md",
-    "Tesoros/Poción de velocidad.md",
-    "Tesoros/Tambores del pánico.md",
-    "Tesoros/Varita de detección de puertas secretas.md",
-    "Tesoros/Poción de clarividencia.md",
-    "Tesoros/Medallón de leer pensamientos 30’.md",
-    "Tesoros/Espada +2, embrujar persona.md",
-    "Tesoros/Espada +1, luz.md",
-    "SRD/Armas y armaduras.md",
-    "SRD/Armas (tabla avanzada).md",
-    "SRD/Armas.md"
+    "new-release/clases/drow.md",
+    "new-release/clases/druida.md",
+    "new-release/clases/caballero.md",
+    "new-release/clases/bardo.md",
+    "new-release/clases/asesino.md",
+    "new-release/clases/acrobata.md",
+    "new-release/clases.md",
+    "new-release/index.md",
+    "new-release/clases/clerigo.md",
+    "new-release/clases/barbaro.md",
+    "new-release/clases/svirfneblin.md",
+    "clases.md",
+    "new-release/clases/semiorco.md",
+    "new-release/clases/semielfo.md",
+    "new-release/clases/paladin.md",
+    "new-release/clases/mediano.md",
+    "new-release/clases/mago.md",
+    "new-release/clases/ladron.md",
+    "new-release/clases/ilusionista.md",
+    "new-release/clases/guerrero.md",
+    "new-release/clases/guardabosques.md",
+    "new-release/clases/gnomo.md",
+    "new-release/clases/enano.md",
+    "new-release/clases/elfo.md",
+    "new-release/clases/duergar.md",
+    "new-release",
+    "Indice SRD.md",
+    "Untitled.canvas"
   ]
 }

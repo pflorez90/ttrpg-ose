@@ -1,20 +1,14 @@
 ---
-name: Cleric
-name_es: Clérigo
-src: "OSE Advance Fantasy Referee's Tome"
-pg: 
-req: 
-ppal: SAB
-srd: true
-tag: clase
-alias: Cleric
+title: "Clérigo"
+metaTitle: "Clérigo"
+metaDescription: "Clases -> Clérigo"
 ---
-# `=this.name_es` 
+# Clérigo 
 
-**_`=this.name`_**
+**_Cleric_**
 
-> **Requisitos:** `=this.req` 
-> **Requisito principal:** `=this.ppal` 
+> **Requisitos:** - 
+> **Requisito principal:** SAB 
 > **Dados de Golpe:** 1d6   
 > **Nivel máximo:** 14   
 > **Armadura:** Cualquiera, incluyendo escudos   
@@ -23,38 +17,33 @@ alias: Cleric
 
 Los clérigos son aventureros que han jurado servir a una deidad. Están entrenados para la batalla y canalizan el poder de su deidad. 
 
----
 ## Progresión del clérigo
 
--tx-
-| ||||**Tiradas de salvación**|||||Hechizos|||||
-| Nivel |   PX    |   DG   |  GAC0   | *M* | *V* | *P* | *A* | *H* |  1  |  2  |  3  |  4  |  5  |
-|:-----:|:-------:|:------:|:-------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|   1   |    0    |  1d6   | 19 [0]  | 11  | 12  | 14  | 16  | 15  |  –  |  –  |  –  |  –  |  –  |
-|   2   |  1,500  |  2d6   | 19 [0]  | 11  | 12  | 14  | 16  | 15  |  1  |  –  |  –  |  –  |  –  |
-|   3   |  3,000  |  3d6   | 19 [0]  | 11  | 12  | 14  | 16  | 15  |  2  |  –  |  –  |  –  |  –  |
-|   4   |  6,000  |  4d6   | 19 [0]  | 11  | 12  | 14  | 16  | 15  |  2  |  1  |  –  |  –  |  –  |
-|   5   | 12,000  |  5d6   | 17 [+2] |  9  | 10  | 12  | 14  | 12  |  2  |  2  |  –  |  –  |  –  |
-|   6   | 25,000  |  6d6   | 17 [+2] |  9  | 10  | 12  | 14  | 12  |  2  |  2  |  1  |  1  |  –  |
-|   7   | 50,000  |  7d6   | 17 [+2] |  9  | 10  | 12  | 14  | 12  |  2  |  2  |  2  |  1  |  1  |
-|   8   | 100,000 |  8d6   | 17 [+2] |  9  | 10  | 12  | 14  | 12  |  3  |  3  |  2  |  2  |  1  |
-|   9   | 200,000 |  9d6   | 14 [+5] |  6  |  7  |  9  | 11  |  9  |  3  |  3  |  3  |  2  |  2  |
-|  10   | 300,000 | 9d6+1* | 14 [+5] |  6  |  7  |  9  | 11  |  9  |  4  |  4  |  3  |  3  |  2  |
-|  11   | 400,000 | 9d6+2* | 14 [+5] |  6  |  7  |  9  | 11  |  9  |  4  |  4  |  4  |  3  |  3  |
-|  12   | 500,000 | 9d6+3* | 14 [+5] |  6  |  7  |  9  | 11  |  9  |  5  |  5  |  4  |  4  |  3  |
-|  13   | 600,000 | 9d6+4* | 12 [+7] |  3  |  5  |  7  |  8  |  7  |  5  |  5  |  5  |  4  |  4  |
-|  14   | 700,000 | 9d6+5* | 12 [+7] |  3  |  5  |  7  |  8  |  7  |  6  |  5  |  5  |  5  |  4  |
+| Nivel |   PX    |   DG   | B. Atq. | **M** | **V** | **P** | **A** | **H** |  1  |  2  |  3  |  4  |  5  |
+|:-----:|:-------:|:------:|:-------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|:---:|:---:|:---:|:---:|
+|   1   |    0    |  1d6   |    0    |  11   |  12   |  14   |  16   |  15   |  -  |  -  |  -  |  -  |  -  |
+|   2   |  1.500  |  2d6   |    0    |  11   |  12   |  14   |  16   |  15   |  1  |  -  |  -  |  -  |  -  |
+|   3   |  3.000  |  3d6   |    0    |  11   |  12   |  14   |  16   |  15   |  2  |  -  |  -  |  -  |  -  |
+|   4   |  6000   |  4d6   |    0    |  11   |  12   |  14   |  16   |  15   |  2  |  1  |  -  |  -  |  -  |
+|   5   | 12.000  |  5d6   |   +2    |   9   |  10   |  12   |  14   |  12   |  2  |  2  |  -  |  -  |  -  |
+|   6   | 25.000  |  6d6   |   +2    |   9   |  10   |  12   |  14   |  12   |  2  |  2  |  1  |  1  |  -  |
+|   7   | 50.000  |  7d6   |   +2    |   9   |  10   |  12   |  14   |  12   |  2  |  2  |  2  |  1  |  1  |
+|   8   | 100.000 |  8d6   |   +2    |   9   |  10   |  12   |  14   |  12   |  3  |  3  |  2  |  2  |  1  |
+|   9   | 200.000 |  9d6   |   +5    |   6   |   7   |   9   |  11   |   9   |  3  |  3  |  3  |  2  |  2  |
+|  10   | 300.000 | 9d6+1* |   +5    |   6   |   7   |   9   |  11   |   9   |  4  |  4  |  3  |  3  |  2  |
+|  11   | 400.000 | 9d6+2* |   +5    |   6   |   7   |   9   |  11   |   9   |  4  |  4  |  4  |  3  |  3  |
+|  12   | 500.000 | 9d6+3* |   +5    |   6   |   7   |   9   |  11   |   9   |  5  |  5  |  4  |  4  |  3  |
+|  13   | 600.000 | 9d6+4* |   +7    |   3   |   5   |   7   |   8   |   7   |  5  |  5  |  5  |  4  |  4  |
+|  14   | 700.000 | 9d6+5* |   +7    |   3   |   5   |   7   |   8   |   7   |  6  |  5  |  5  |  5  |  4  |
 
 \* No se aplican modificadores por CON.
 
 **M:** Muerte / veneno; **V:** Varitas; **P:** Parálisis / petrificación; **A:** Ataques de aliento; **H:** Hechizos / varas / bastones.
 
----
 ## Combate 
 
 Los clérigos pueden usar cualquier tipo de armadura. Su estricta doctrina les impide usar cualquier arma que tenga filo, por lo que utilizan cualquiera de estas armas: bastón, garrote, honda, maza, martillo de guerra. 
 
----
 ## Magia Divina 
 
 Consulta _[[Hechizos#Magia divina|Magia]]_ para tener todos los detalles sobre la magia arcana.
@@ -69,7 +58,6 @@ Consulta _[[Hechizos#Magia divina|Magia]]_ para tener todos los detalles sobre l
 
 **Usar objetos mágicos:** Los clérigos pueden usar pergaminos mágicos con hechizos de su lista. También pueden usar objetos accesibles únicamente a hechiceros divinos (como algunos bastones mágicos). 
 
----
 ## Expulsar no muertos 
 
 Los clérigos pueden invocar el poder de su deidad para expulsar cualquier monstruo no muerto. Para tal fin, el jugador tira 2d6. El Árbitro consulta la tabla de la siguiente página, comparando el resultado con los Dados de Golpe del monstruo afectado. 
@@ -87,21 +75,19 @@ Si la expulsión tiene éxito, el jugador debe tirar 2d6 y determinar la cantida
 
 #### Expulsar no muertos
 
--tx-
-| |Dados de golpe de monstruo†||||||||
-| Nivel  | 1  | 2  | 2*  |  3  |  4  |  5  |  6  | 7-9  |
-|--------|:--:|:--:|:---:|:---:|:---:|:---:|:---:|:----:|
-| 1      | 7  | 9  | 11  |  _  |  _  |  _  |  _  |  _   |
-| 2      | E  | 7  |  9  | 11  |  _  |  _  |  _  |  _   |
-| 3      | E  | E  |  7  |  9  | 11  |  _  |  _  |  _   |
-| 4      | D  | E  |  E  |  7  |  9  | 11  |  _  |  _   |
-| 5      | D  | D  |  E  |  E  |  7  |  9  | 11  |  _   |
-| 6      | D  | D  |  D  |  E  |  E  |  7  |  9  |  11  |
-| 7      | D  | D  |  D  |  D  |  E  |  E  |  7  |  9   |
-| 8      | D  | D  |  D  |  D  |  D  |  E  |  E  |  7   |
-| 9      | D  | D  |  D  |  D  |  D  |  D  |  E  |  E   |
-| 10     | D  | D  |  D  |  D  |  D  |  D  |  D  |  E   |
-| 11+    | D  | D  |  D  |  D  |  D  |  D  |  D  |  D   |
+| Nivel |  1  |  2  | 2*  |  3  |  4  |  5  |  6  | 7-9 |
+| ----- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     |  7  |  9  | 11  |  -  |  -  |  -  |  -  |  -  |
+| 2     |  E  |  7  |  9  | 11  |  -  |  -  |  -  |  -  |
+| 3     |  E  |  E  |  7  |  9  | 11  |  -  |  -  |  -  |
+| 4     |  D  |  E  |  E  |  7  |  9  | 11  |  -  |  -  |
+| 5     |  D  |  D  |  E  |  E  |  7  |  9  | 11  |  -  |
+| 6     |  D  |  D  |  D  |  E  |  E  |  7  |  9  | 11  |
+| 7     |  D  |  D  |  D  |  D  |  E  |  E  |  7  |  9  |
+| 8     |  D  |  D  |  D  |  D  |  D  |  E  |  E  |  7  |
+| 9     |  D  |  D  |  D  |  D  |  D  |  D  |  E  |  E  |
+| 10    |  D  |  D  |  D  |  D  |  D  |  D  |  D  |  E  |
+| 11+   |  D  |  D  |  D  |  D  |  D  |  D  |  D  |  D  |
 
 \* Monstruos de 2 DG con una habilidad especial (es decir, con un asterisco junto a su valor de DG en la descripción del monstruo). 
 
@@ -114,7 +100,6 @@ Si la expulsión tiene éxito, el jugador debe tirar 2d6 y determinar la cantida
 **E:** El monstruo es expulsado. 
 **D:** La expulsión tiene éxito; los monstruos son destruidos. 
 
----
 ## Tras alcanzar nivel 9 
 
 Un clérigo puede construir una fortaleza. Mientras el clérigo tenga el favor de su dios, la fortaleza puede ser adquirida o construida a mitad de precio, gracias a una intervención divina. 

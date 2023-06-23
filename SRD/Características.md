@@ -132,7 +132,7 @@ Personalidad, persuasión, atractivo físico y capacidad de liderazgo. 
 ---
 ## Requisito principal
 
-Cada [[Clases|clase de personaje]] tiene uno o más requisitos principales: características esenciales para esa clase. El valor de un requisito principal afecta a la velocidad en que un personaje obtiene puntos de [[Progreso|Experiencia]].
+Cada [[SRD/Clases|clase de personaje]] tiene uno o más requisitos principales: características esenciales para esa clase. El valor de un requisito principal afecta a la velocidad en que un personaje obtiene puntos de [[Progreso|Experiencia]].
 
 Los personajes con un único requisito principal usan la tabla a la derecha. Los modificadores para clases con múltiples requisitos principales se encuentran en la descripción de cada clase. 
 

@@ -1,20 +1,14 @@
 ---
-name: Assasin
-name_es: Asesino
-src: "OSE Advance Fantasy Referee's Tome"
-pg: 
-req: 
-ppal: DES
-srd: 
-tag: clase
-alias: Assasin
+title: "Asesino"
+metaTitle: "Asesino"
+metaDescription: "Clases -> Asesino"
 ---
-# `=this.name_es` 
+# Asesino 
 
-**_`=this.name`_**
+**_Assasin_**
 
-> **Requisitos:** `=this.req` 
-> **Requisito principal:** `=this.ppal` 
+> **Requisitos:** -
+> **Requisito principal:** DES
 > **Dados de Golpe:** 1d4   
 > **Nivel máximo:** 14   
 > **Armadura:** Cuero, puede usar escudos   
@@ -27,33 +21,29 @@ Los asesinos son aventureros que se especializan en las artes de la infiltració
 
 **Ajustar características:** En el tercer paso de la creación de personajes, los asesinos no pueden reducir su FUE.
 
----
 ## Progresión del asesino
 
--tx-
-| ||||**Tiradas de salvación**|||||
-| Nivel |   PX    |   DG    |  GAC0   | **M** | **V** | **P** | **A** | **H** |
+| Nivel |   PX    |   DG    | B. Atq. | **M** | **V** | **P** | **A** | **H** |
 |:-----:|:-------:|:-------:|:-------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|   1   |    0    |   1d4   | 19 [0]  |  13   |  14   |  13   |  16   |  15   |
-|   2   |  1.500  |   2d4   | 19 [0]  |  13   |  14   |  13   |  16   |  15   |
-|   3   |  3.000  |   3d4   | 19 [0]  |  13   |  14   |  13   |  16   |  15   |
-|   4   |  6.000  |   4d4   | 19 [0]  |  13   |  14   |  13   |  16   |  15   |
-|   5   | 12.000  |   5d4   | 17 [+2] |  12   |  13   |  11   |  14   |  13   |
-|   6   | 25.000  |   6d4   | 17 [+2] |  12   |  13   |  11   |  14   |  13   |
-|   7   | 50.000  |   7d4   | 17 [+2] |  12   |  13   |  11   |  14   |  13   |
-|   8   | 100.000 |   8d4   | 17 [+2] |  12   |  13   |  11   |  14   |  13   |
-|   9   | 200.000 |   9d4   | 14 [+5] |  10   |  11   |   9   |  12   |  10   |
-|  10   | 300.000 | 9d4+2*  | 14 [+5] |  10   |  11   |   9   |  12   |  10   |
-|  11   | 425.000 | 9d4+4*  | 14 [+5] |  10   |  11   |   9   |  12   |  10   |
-|  12   | 575.000 | 9d4+6*  | 14 [+5] |  10   |  11   |   9   |  12   |  10   |
-|  13   | 750.000 | 9d4+8*  | 12 [+7] |   8   |   9   |   7   |  10   |   8   |
-|  14   | 900.000 | 9d4+10* | 12 [+7] |   8   |   9   |   7   |  10   |   8   |
+|   1   |    0    |   1d4   |    0    |  13   |  14   |  13   |  16   |  15   |
+|   2   |  1.500  |   2d4   |    0    |  13   |  14   |  13   |  16   |  15   |
+|   3   |  3.000  |   3d4   |    0    |  13   |  14   |  13   |  16   |  15   |
+|   4   |  6.000  |   4d4   |    0    |  13   |  14   |  13   |  16   |  15   |
+|   5   | 12.000  |   5d4   |   +2    |  12   |  13   |  11   |  14   |  13   |
+|   6   | 25.000  |   6d4   |   +2    |  12   |  13   |  11   |  14   |  13   |
+|   7   | 50.000  |   7d4   |   +2    |  12   |  13   |  11   |  14   |  13   |
+|   8   | 100.000 |   8d4   |   +2    |  12   |  13   |  11   |  14   |  13   |
+|   9   | 200.000 |   9d4   |   +5    |  10   |  11   |   9   |  12   |  10   |
+|  10   | 300.000 | 9d4+2*  |   +5    |  10   |  11   |   9   |  12   |  10   |
+|  11   | 425.000 | 9d4+4*  |   +5    |  10   |  11   |   9   |  12   |  10   |
+|  12   | 575.000 | 9d4+6*  |   +5    |  10   |  11   |   9   |  12   |  10   |
+|  13   | 750.000 | 9d4+8*  |   +7    |   8   |   9   |   7   |  10   |   8   |
+|  14   | 900.000 | 9d4+10* |   +7    |   8   |   9   |   7   |  10   |   8   |
 
 \* No se aplican modificadores por CON.
 
 **M:** Muerte / veneno; **V:** Varitas; **P:** Parálisis / petrificación; **A:** Ataques de aliento; **H:** Hechizos / varas / bastones.
 
----
 ## Habilidades de asesino
 
 Los asesinos pueden usar las siguientes habilidades: 
@@ -97,12 +87,10 @@ Escuchar ruido se realiza con 1d6. Si la tirada está dentro del rango de númer
 
 El Árbitro realiza los chequeos para ocultarse entre las sombras y moverse con sigilo, ya que el asesino siempre cree que ha tenido éxito. Si la tirada falla, el Árbitro sabe que el asesino ha sido visto y deberá determinar las acciones de los enemigos de forma apropiada.
 
----
 ## Combate
 
 Un asesino no puede llevar una armadura más pesada que el cuero, y no puede usar un escudo. Puede usar cualquier tipo de armas.
 
----
 ## Disfraz
 
 Los personajes de cualquier clase pueden disfrazarse, pero los asesinos son verdaderos maestros del disfraz, capaces de crear disfraces prácticamente imposibles de detectar.
@@ -113,17 +101,14 @@ Los personajes de cualquier clase pueden disfrazarse, pero los asesinos son verd
 
 **Altura y peso:** Un disfraz puede alterar la altura (hasta 3” más bajo o 5” más alto) o el peso (ligeramente más delgado o mucho más voluminoso).
 
----
 ## Ayudantes
 
 Los asesinos de nivel 1-3 no pueden reclutar sirvientes o ayudantes. A partir del nivel 4, un asesino puede reclutar a otros asesinos de menor nivel. A partir del nivel 8, un asesino puede reclutar ladrones, y a partir del nivel 12 puede reclutar cualquier tipo de personaje.
 
----
 ## Veneno
 
 Las víctimas del veneno de un asesino (ver _[[Veneno]]_) sufren una penalización de -2 a su tirada de salvación.
 
----
 ## Tras alcanzar nivel 12
 
 Un asesino puede intentar apoderarse de un gremio de asesinos o de ladrones ya existente acabando con su maestro del gremio. Esto puede lograrse por cualquier medio (envenenamiento, asesinato, duelo, etc.). Si tiene éxito, el personaje puede mantener un gremio de 7d4 miembros. El 75% de los antiguos miembros abandonarán el gremio, pero poco a poco comenzarán a llegar nuevos miembros (asesinos de nivel 1).

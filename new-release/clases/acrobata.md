@@ -1,9 +1,7 @@
 ---
-name: Acrobat
-name_es: Acróbata
-req: 
-ppal: DES
-tag: clase
+title: "Acróbata"
+metaTitle: "Acróbata"
+metaDescription: "Clases -> Acróbata"
 ---
 # Acróbata 
 
@@ -86,6 +84,7 @@ El Árbitro realiza los chequeos para ocultarse entre las sombras y moverse con 
 ## Combate 
 
 Un acróbata no puede llevar una armadura más pesada que el cuero, y no puede usar un escudo. Puede utilizar cualquier arma a distancia. En combate cuerpo a cuerpo, solo puede usar armas de filo ligeras y armas de asta, lanzas y bastones.
+
 ## Huida 
 
 Cuando huye del combate cuerpo a cuerpo, la habilidad de rodar del acróbata anula la bonificación de +2 a impactar del oponente. 

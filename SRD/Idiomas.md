@@ -5,7 +5,7 @@ alias: idiomas
 ---
 # Idiomas
 
-Los idiomas nativos que puede hablar cada personaje están determinados por su [[Clases|clase]], aunque normalmente incluyen la lengua común y el idioma de alineamiento. Los personajes con un alto nivel de INT pueden aprender idiomas adicionales (ver **_[[Características#Inteligencia (INT)|Características]]_**).
+Los idiomas nativos que puede hablar cada personaje están determinados por su [[SRD/Clases|clase]], aunque normalmente incluyen la lengua común y el idioma de alineamiento. Los personajes con un alto nivel de INT pueden aprender idiomas adicionales (ver **_[[Características#Inteligencia (INT)|Características]]_**).
 
 ---
 

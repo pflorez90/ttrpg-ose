@@ -71,7 +71,7 @@ Aunque los sirvientes son personajes interpretados por el Árbitro, reciben [[Pr
 
 **Penalización de PX:** Debido a que los sirvientes se limitan a seguir órdenes durante una aventura, y por lo tanto no se involucran directamente en la resolución de problemas, [[Reparto de PX|reciben]] un 50% menos de PX.
 
-**Humanos comunes:** Cuando un humano común (un sirviente de nivel 0 sin clase) recibe PX, deberá decidir una [[Clases|clase]] de aventurero y seguir ese camino.
+**Humanos comunes:** Cuando un humano común (un sirviente de nivel 0 sin clase) recibe PX, deberá decidir una [[SRD/Clases|clase]] de aventurero y seguir ese camino.
 
 ---
 ## Lealtad

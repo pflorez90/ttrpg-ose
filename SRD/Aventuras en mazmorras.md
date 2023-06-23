@@ -34,7 +34,7 @@ Las puertas abiertas por los aventureros (por cualquier medio) suelen cerrarse u
 Los monstruos que habitan la mazmorra pueden abrir puertas (incluso las atascadas), a menos que estén bloqueadas, cerradas mágicamente o aseguradas con puntas de hierro.
 
 ### Escuchar tras la puerta
-**Probabilidad de éxito:** Los PJ tienen una probabilidad de 1 entre 6 de detectar sonidos detrás de una puerta. Algunos [[Clases|tipos de aventureros]] pueden tener una mayor probabilidad de éxito.
+**Probabilidad de éxito:** Los PJ tienen una probabilidad de 1 entre 6 de detectar sonidos detrás de una puerta. Algunos [[SRD/Clases|tipos de aventureros]] pueden tener una mayor probabilidad de éxito.
 
 **Tiradas del Árbitro:** El [[El papel del árbitro|Árbitro]] debe realizar esta tirada, de manera que el jugador nunca sepa si la tirada falló o si simplemente no escucha nada al otro lado.
 
@@ -86,7 +86,7 @@ Cada trampa se activa como consecuencia de una acción específica (por ejemplo,
 ### Buscar trampas
 **Trampas de habitación:** Los personajes pueden registrar un área de 10’ x 10’ en busca de trampas. Si la búsqueda tiene éxito, la trampa es descubierta (ver **[[#Buscar|Buscar]]**).
 
-**Trampas del tesoro:** La mayoría de los aventureros no poseen el conocimiento necesario sobre estos mecanismos como para poder encontrarlos. Algunos tipos de aventureros pueden tener esta habilidad, como se indica en la descripción de su [[Clases|clase]].
+**Trampas del tesoro:** La mayoría de los aventureros no poseen el conocimiento necesario sobre estos mecanismos como para poder encontrarlos. Algunos tipos de aventureros pueden tener esta habilidad, como se indica en la descripción de su [[SRD/Clases|clase]].
 
 ---
 ## Monstruos errantes

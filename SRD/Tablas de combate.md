@@ -46,7 +46,7 @@ En lugar de consultar la matriz de ataque, los ataques pueden resolverse usando 
 ---
 ## Tiradas de salvación de PNJ
 
-Los PJ y los PNJ con clase usan los valores de tiradas de salvación de su [[Clases|clase]], listadas en su libro de reglas de género.
+Los PJ y los PNJ con clase usan los valores de tiradas de salvación de su [[SRD/Clases|clase]], listadas en su libro de reglas de género.
 
 -tx-
 |Tirada de salvación de monstruo||||||

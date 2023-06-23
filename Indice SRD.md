@@ -8,7 +8,7 @@
 	4. [[Alineamiento]]
 	5. [[Idiomas]]
 	6. [[Progreso]]
-2. [[Clases#SRD (Básico)|Clases]]
+2. [[SRD/Clases#SRD (Básico)|Clases]]
 	1. [[Reglas opcionales|Reglas opcionales de]] [[Razas]]
 3. Equipo y Servicios
 	1. [[Riqueza]]
@@ -28,8 +28,8 @@
 	2. [[Grimorios]]
 	3. [[Investigación mágica]]
 	4. [[Hechizos para Clérigos]]
-	5. [[Hechizos para Druidas]] (no SRD)
-	6. [[Hechizos para Ilusionistas]] (no SRD)
+	5. [[Hechizos para Druidas]]
+	6. [[Hechizos para Ilusionistas]]
 	7. [[Hechizos para Magos]]
 5. Aventura
 	1. [[Organización del grupo]]
@@ -45,7 +45,7 @@
 	8. [[Encuentros]]
 	9. [[Huida y persecución]]
 	10. [[Combate]]
-		1. [[Combate avanzado]] (no SRD)
+		1. [[Combate avanzado]]
 	11. [[Reglas de combate adicionales]]
 	12. [[Moral (regla opcional)]]
 	13. [[Tablas de combate]]
@@ -66,16 +66,16 @@
 	4. [[Objetos mágicos]]
 	5. [[Armaduras y escudos]]
 	6. [[Objetos misceláneos]]
-		1. [[Objetos misceláneos (tablas avanzadas)]] (no SRD)
+		1. [[Objetos misceláneos (tablas avanzadas)]]
 	7. [[Pociones]]
 	8. [[Anillos]]
 	9. [[Bastones, varas y varitas]]
-		1. [[Bastones, varas y varitas (tabla avanzada)]] (no SRD)
+		1. [[Bastones, varas y varitas (tabla avanzada)]]
 	10. [[Pergaminos y mapas]]
 	11. [[Espadas]]
-		1. [[Espadas (tabla avanzada)]] (no SRD)
+		1. [[Espadas (tabla avanzada)]]
 	12. [[Armas]]
-		1. [[Armas (tabla avanzada)]] (no SRD)
+		1. [[Armas (tabla avanzada)]]
 	13. [[Espadas inteligentes]]
 		1. [[Poderes extraordinarios]]
 		2. [[Poderes sensoriales]]
